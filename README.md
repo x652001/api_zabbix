@@ -4,4 +4,4 @@
 
 ### Creating hosts 
 
-python3 main.py
+python3 Main.py
